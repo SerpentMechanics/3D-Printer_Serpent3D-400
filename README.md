@@ -22,3 +22,34 @@ It is an open Source 400mm³ closed CoreXY 3D Printer with flying gantry and fou
 
 ### Phase 4: Segmented Headbed
 - [ ] FreeCAD
+- [ ] Material ordered
+- [ ] Heatbed build
+- [ ] Heatbed installed
+
+### Phase 5: Electronics and Wiring
+- [ ] FreeCAD:
+  - [ ] Mainboard Mounting
+  - [ ] Cable Chanel and Mounting
+  - [ ] Endstops
+  - [ ] PSU Mounting
+  - [ ] Emergency Stop
+- [ ] Material ordered
+- [ ] Cable Management and Tech installation
+
+### Phase 6: Hotend and Extruder
+- [ ] FreeCAD
+- [ ] Material ordered 
+- [ ] Installation
+
+### Phase 7: Firmware
+- [ ] Klipper setup
+
+### Phase 8: Enclosure
+- [ ] FreeCAD
+- [ ] Material ordered 
+- [ ] Build
+- [ ] Instal
+
+### Phase 9: First Test Print
+
+### Phase 10: Finish
