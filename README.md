@@ -19,3 +19,6 @@ It is an open Source 400mm³ closed CoreXY 3D Printer with flying gantry and fou
 - [ ] FreeCAD Model
 - [ ] Material ordered
 - [ ] CoreXY Gantry build in
+
+### Phase 4: Segmented Headbed
+- [ ] FreeCAD
