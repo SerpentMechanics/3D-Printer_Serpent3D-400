@@ -6,7 +6,7 @@ It is an open Source 400mm³ closed CoreXY 3D Printer with flying gantry and fou
 ## Phases:
 
 ### Phase 1: Frame Construction
-- [ ] FreeCAD Model
+- [ ] FreeCAD Model (In Progress)
 - [ ] Material ordered
 - [ ] Frame build
 
